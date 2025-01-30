@@ -1,0 +1,7 @@
+gpt2/
+*_ee966*
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.zip
+.DS_Store
